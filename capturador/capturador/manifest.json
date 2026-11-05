@@ -1,7 +1,0 @@
-{
-  "version": "1.0.2",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/capturador-1.0.2/update-1.0.2.zip",
-  "sha256": "51d83d6f7381f321c941112392a994ad1c31cba7cd9e9454c6844ea02793e1ea",
-  "sig": "MEUCIBSWyiJ1EOzGQqLO+8j2G6lRWmqyzCm+8CD/NuSKMZcZAiEA3ZNa0jNpPEUIf0cUfyeksHuqqDDH3Io/yIOmfxbY/NI=",
-  "notes": "Correcciones de la auditoría: las capturas ya no incluyen las ventanas de la propia app, el autostart sí se puede desactivar, Copiar sobrevive al salir, arranque y reserva más rápidos, y pulido visual."
-}
