@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/chalkpad-1.0.15/update-1.0.15.zip",
-  "sha256": "40d19b2515999e31a31dd58508b2890e9a29e97a63ddc9726bd035c0a4aa267c",
-  "notes": "Guardado seguro con copias de seguridad, recuperación de borradores, texto plano y Markdown mejorados, atajos y deshacer corregidos, tema Sistema y rendimiento mejorados. Actualizaciones desde GitHub.",
-  "sig": "qzTPAj9MC0JvcSXoEgzm/MfekSpo03sDlpGI+unQEqty7JRCqG8NL9EpxoQikDGUCaPqCNS5LzHG6hTgYH242XRJLVHj9dAN4I5mP4WYhPu3U9AJsszqk9IbSqvYyn6ca8pptA0YRatdV5LmdaALeDORPFit7WiKBW2u5Ix4VxGHMIYrEuDGxxgr8w9SJgrTBzDmgo2CE9HmoyKF3CPcDJCzmRTCUkbgh1RwlX2VQyAc45+pN5lqrgdUs0LOFpiA+KSEijf6Gn7rd6+CW+l9BFo3ra/O3ivnkUrWrQMySMMNpEfDnS4lWanVSvD+Um72/Alv77KRODMor3iW5pEqbQ=="
+  "version": "1.0.17",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/chalkpad-1.0.17/update-1.0.17.zip",
+  "sha256": "31eb92d6f1e62779176769f6df0851f9184a39252794c3ca2d264cffc53bed4f",
+  "notes": "Actualizaciones solo al buscarlas, reinicio opcional, flecha automática al teclear, cierre de pestañas sin marco y apertura de archivos junto con borradores restaurados. Nueva clave de firma: requiere instalación manual inicial.",
+  "sig": "AiPRjhL2ZODWy2aSFIDNVME6bX1aHFFjjTmomt4k5DwrLvXjpDNnVk/vptAsZq8hMNUC2lH4Ax+NL84z6yNf3N4jf0T73GjVTqeOFdYb9nkegOQSxkvA0P2T9iQlJgW+eRushKQEGgH1qsz13mWCQfyM6Mr4mHEnUj9Y2ASGofvk5lhEgz8E4CIMrCQ7Ta5L9evrXzHUzWWGO86P590+iG+zKwycHGMwbcK6MmdaR2JHcjhG7tZrPLOKgCrzlKKgrWIsyQNVTk5H2k78wiHiJMfbznljXwftl/PIsNH1ZxMWC4cZZZUwX3sMUC+xZ0d5FDCvWL+xq3lR1O/9Ora2/A=="
 }
