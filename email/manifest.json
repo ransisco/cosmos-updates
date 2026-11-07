@@ -1,1 +1,7 @@
-{"app": "email", "version": "2.3.12", "url": "https://github.com/ransisco/cosmos-updates/releases/download/email-2.3.12/update-2.3.12.zip", "sha256": "eedf422005b15c9a039e023621f91235f14315775821849ca565ddaf90af65b4", "notes": "Email 2.3.12: redactar es más limpio: barra fina con iconos ligeros y campos De/Para alineados a la misma altura. La barra superior queda despejada con Nuevo correo y el resto de acciones va al menú de clic derecho sobre cada correo, ordenado como Thunderbird, con Bloquear para remitentes. Las imágenes se ajustan al ancho del panel, el aviso de privacidad ocupa una sola línea y Eliminar envía siempre a Papelera.", "sig": "hSWN56vhvrUfPe0wthO0YQrmCSIL51C/rvynOstLP59DC6xbPBoAcPWDfT7++XZq5dsKAfrUAjE2w1KUEA96jiE48LYjHMzjNeFUhWOXrgWPfhWFI0Qj+ltO1K5hQ37suV9vl2Y6FqRQFvzwZNR8c2fDI2psru1RYkvO2gGoTaDHGAGrL8tYwBzKzfY+J+15BmKT/iLe2P7OVkczV2C45vTvRSg98AdY4fjtC0ZXe0btEJzziZSywehdc0b/pQfqpvk5iWfSH2rrmk5XFHMToV9pr5BeEVgaaEQ2kl/F4Iv957+htlNkYitwq0SmCNsu2hrpZBTy7FVvnihl611j+g=="}
+{
+  "version": "2.3.13",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/email-2.3.13/update-2.3.13.zip",
+  "sha256": "39e8bd7a2cf22c1ec91ca27e18df6f79e58334b46d37d93a38df7d5e854265fe",
+  "notes": "Enlaces clicables en el cuerpo del mensaje (clic abre el navegador). Corregido también el menú contextual de clic derecho.",
+  "sig": "Ia++EUh/nvc/vs3isyPrqoSnEMzdD1qeD08N2ZslC82T0o35te8EvjppB3uILksZIuTtoxOTOlEnmWJdNyZ2eF3c3DmDdkHvtwReR72qFSQgr5DamQgrfhAYjvZ5UqW2cGAH6IPd+pjgOJIIaY5ztL95hmepu1SehX3wEBwp90McVeeva3Z9NrqsQTRTJK9V/HUMNMBvzeRQTf9NWCazGGODITF7cOJ6Pl4xjC7ISsFT3bTh2jWVQfWGmlq8n3oshi+qB9FWtTJ1YB5itva6/aZ9fn4k5a4YjdnYADUuV0mnAlEW5EIdORkpBb2gAWlCAIG9VjMmHnznHbvzOpu9MQ=="
+}
