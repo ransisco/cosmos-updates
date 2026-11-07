@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="gclip"><circle cx="64" cy="64" r="26.5"/></clipPath>
+  </defs>
+
+  <!-- disco de respaldo: rellena el interior para que no haya huecos transparentes -->
+  <circle cx="64" cy="64" r="50" fill="#241833"/>
+
+  <!-- cola de zorro: contorno oscuro, base naranja, brillo interior -->
+  <circle cx="64" cy="64" r="45" fill="none" stroke="#241833" stroke-width="21" stroke-linecap="round" stroke-dasharray="225 57.7" stroke-dashoffset="-30"/>
+  <circle cx="64" cy="64" r="45" fill="none" stroke="#ff9500" stroke-width="15" stroke-linecap="round" stroke-dasharray="225 57.7" stroke-dashoffset="-30"/>
+  <circle cx="64" cy="64" r="41" fill="none" stroke="#ffd25e" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="200 82.7" stroke-dashoffset="-28"/>
+
+  <!-- punta de la cola -->
+  <circle cx="75.4" cy="21.5" r="9" fill="#241833"/>
+  <circle cx="75.4" cy="21.5" r="6.5" fill="#ffd25e"/>
+
+  <!-- globo: contorno, base, sombreado cel, brillo -->
+  <circle cx="64" cy="64" r="30" fill="#241833"/>
+  <circle cx="64" cy="64" r="26.5" fill="#4a90f2"/>
+  <g clip-path="url(#gclip)">
+    <ellipse cx="66" cy="80" rx="26" ry="14" fill="#2a5db8"/>
+    <ellipse cx="70" cy="88" rx="20" ry="10" fill="#1d4f9e"/>
+  </g>
+  <ellipse cx="51" cy="50" rx="11" ry="7" fill="#ffffff" opacity="0.95" transform="rotate(-25 51 50)"/><ellipse cx="57" cy="45" rx="4" ry="2.5" fill="#ffffff" opacity="0.7" transform="rotate(-25 57 45)"/>
+
+  <!-- aro y tachón "Not": contorno oscuro + rojo vivo -->
+  <circle cx="64" cy="64" r="56" fill="none" stroke="#241833" stroke-width="14"/>
+  <circle cx="64" cy="64" r="56" fill="none" stroke="#ef3931" stroke-width="10"/>
+  <line x1="33" y1="33" x2="95" y2="95" stroke="#241833" stroke-width="14" stroke-linecap="round"/>
+  <line x1="33" y1="33" x2="95" y2="95" stroke="#ef3931" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=NotFox
+GenericName=Navegador web
+Comment=Navegador privado: motor Firefox, sin telemetría, con uBlock Origin
+Exec=notfox %u
+Icon=notfox
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+StartupWMClass=notfox
+Actions=private;updatecheck;
+
+[Desktop Action private]
+Name=Nueva ventana privada
+Exec=notfox --private-window
+
+[Desktop Action updatecheck]
+Name=Buscar actualizaciones
+Exec=/opt/notfox/notfox-updater --manual

@@ -1,0 +1,7 @@
+{
+  "app": "notfox",
+  "version": "159.0.1-1notfox1",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/notfox-159.0.1-1notfox1/notfox_159.0.1-1notfox1_amd64.deb",
+  "sha256": "3bfe166fdddf91b6ead0c414094da683d0292d3b157eb0bcedf13fb0795da566",
+  "notes": "NotFox 159.0.1-1notfox1: primera release. Firefox 159.0.1 es-ES con perfil blindado estilo LibreWolf, 5 extensiones nativas y Total Cookie Protection."
+}
