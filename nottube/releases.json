@@ -5,7 +5,7 @@
   "assets": [
     {
       "name": "nottube_0.26.15_amd64.deb",
-      "browser_download_url": "https://github.com/ransisco/cosmos-updates/releases/download/v0.26.15/nottube_0.26.15_amd64.deb"
+      "browser_download_url": "https://raw.githubusercontent.com/ransisco/cosmos-updates/5635c4800eeffd95bdd511bfb7aa707d13988851/nottube/dl/nottube_0.26.15_amd64.deb"
     }
   ]
 }
