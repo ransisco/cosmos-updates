@@ -1,7 +1,7 @@
 {
   "app": "notfox",
-  "version": "159.0.1-1notfox2",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/notfox-159.0.1-1notfox2/notfox_159.0.1-1notfox2_amd64.deb",
-  "sha256": "1605d955ac9fd10a5a704145fbd72bcb8cfc9725518e51f25ad0bdf643b1126f",
-  "notes": "NotFox 159.0.1-1notfox2: recuerda si cerraste la ventana a pantalla completa (o maximizada) y la restaura al abrir."
+  "version": "159.0.1-1notfox3",
+  "url": "https://raw.githubusercontent.com/ransisco/cosmos-updates/c357342265d87feeb28a9f0bd4cd43c561084228/notfox/dist/notfox_159.0.1-1notfox3_amd64.deb",
+  "sha256": "649de8368165a58c9e0c84e1984bee1b8935a60a58e214ead379adcccd8bfd74",
+  "notes": "NotFox 159.0.1-1notfox3: recuerda cómo cerraste la ventana - tamaño y posición, maximizada o pantalla completa - y la restaura al abrir."
 }
