@@ -1,7 +1,7 @@
 {
-  "version": "2.3.13",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/email-2.3.13/update-2.3.13.zip",
-  "sha256": "39e8bd7a2cf22c1ec91ca27e18df6f79e58334b46d37d93a38df7d5e854265fe",
-  "notes": "Enlaces clicables en el cuerpo del mensaje (clic abre el navegador). Corregido también el menú contextual de clic derecho.",
-  "sig": "fT1AkDaqwESzH/PYfeKdAeoJwF8mODBbP9aV0dVvnXg7it2xFNWFo7EeraoRxqipypN8NbDHW1O9JCBAjSUjcrgfq9kp/Ni3te8BYcfh3vJFy7Fp4LdKh/0tdlGESCUvVv7UJfFlOQoKZhvURZMowsYPzGc86bQX27wgsl5bZ73xF5C3yuxvOp5sMnl8BqjH/nrM1cjq7zInj5VqVCOrxk+RE5LeB0L+2SRGBLgCySVfxoz+j+Kskdiytol9j9EYYP5kJB3RJgNhQvJWaytLh1Eazw7LIihMKTep+8jttUDqAa4aq5eP/VBbNl2xC4tmfCOGMXTJg5cvr/omuINVdA=="
+  "version": "2.3.14",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/email-2.3.14/update-2.3.14.zip",
+  "sha256": "bbedb2dfd0ff7eacd72ce9a01c629263a6bde06314359e195e3aa967017a23d1",
+  "notes": "Corregido el fallo por el que a veces los mensajes nuevos no aparecían en la lista ni en no leídos: si el servidor rechazaba la descarga de sobres por un mensaje problemático, se ignoraba todo el lote en silencio. Ahora se aísla ese mensaje y el resto del correo entra con normalidad. Asuntos y remitentes con tildes/ñ siempre correctos, icono de adjuntos fiable y el estado de leído/destacado se actualiza en cada sincronización aunque no haya correo nuevo.",
+  "sig": "YgTutjp++7+JOUzxhnX2rcOw6MmakVuNu65qMMwa2diWfJ9jRFXGins2dHdKrRYAW5fVdYJFxsGnjUDMA23xx3Hvw2pglFn9QOBU3/KCc38W5zPjfnsCeHSY9ikBPQAK3cPl4GJ53q6VfMNJNY/1p3nrHtMazxyJq4rz4WGCAvsBRPQShMGolq4N06oQzzLVWywMWCEoLBlsKRncZ1q1t+VnrxAW2Nw2zB95YwnGMxH4VdQYfcf+nydDersUc4Tf609DRO6X6zXN93mCTgKZ7q7LOKkS8xEKBDdT9Mgcjp/60oZTAjp3xz68kZ8IeB39GceOFUKYnF6toCw8Ns4b0w=="
 }
