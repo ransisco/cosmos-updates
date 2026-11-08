@@ -14,7 +14,7 @@ set -euo pipefail
 
 FFVER="${1:-159.0.1}"
 LOCALE="${2:-es-ES}"
-DEBVER="$FFVER-1notfox1"
+DEBVER="$FFVER-1notfox2"
 
 BUILD_DIR="$(cd "$(dirname "$0")" && pwd)"
 SRC_DIR="$BUILD_DIR/../src"
@@ -71,7 +71,7 @@ TMHOME=$(mktemp -d)
 render_icon() { # render_icon <size> — cairosvg: alfa real, sin recorte de bordes
   python3 -c "import cairosvg; cairosvg.svg2png(url='$SRC_DIR/notfox.svg', write_to='$ICON_DIR/icon_$1_t.png', output_width=$1, output_height=$1)"
 }
-for s in 16 32 48 64 128 192 256 384; do render_icon "$s"; done
+for s in 16 32 48 64 128 192 256 384; do [ -f "$ICON_DIR/icon_${s}_t.png" ] || render_icon "$s"; done
 rm -rf "$TMHOME"
 
 # assets para omni.ja
