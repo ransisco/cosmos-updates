@@ -14,7 +14,7 @@ set -euo pipefail
 
 FFVER="${1:-159.0.1}"
 LOCALE="${2:-es-ES}"
-DEBVER="$FFVER-1notfox2"
+DEBVER="$FFVER-1notfox3"
 
 BUILD_DIR="$(cd "$(dirname "$0")" && pwd)"
 SRC_DIR="$BUILD_DIR/../src"
