@@ -1,7 +1,7 @@
 {
-  "version": "3.4-58",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-58/update-3.4-58.zip",
-  "sha256": "71b95ee4b08f0481fc37b8476e43357d5ce1aad985019111c34455f1491c4452",
-  "sig": "MEUCIQCfgadbZweoJO9J/kMbQknIt7Mp9l5jghJQ9VUBB7XpIwIgc9+xO0qAWA3PuxayTiOI+COj4/Uxh+wflo+HrnaBE/Q=",
-  "notes": "Tests por clase: anota los puntos de todo el grupo con equivalencia Cambridge al momento, también en NEW. Assessment usa las destrezas asignadas al grupo. Results, medias y fallos mantienen los resultados individuales. Copia automática local antes de migrar."
+  "version": "3.4-60",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-60/update-3.4-60.zip",
+  "sha256": "9e001081f6b15ac6c9c83bf8a45c8988170eb9c21b5699b31e7443af161cf3cb",
+  "sig": "MEYCIQCUta8iZ0M/wVHpG2yIG2fd7hnmyzv2l8il0g57Td5AMwIhAL7PeMLes9WXbpjDCsMDpH2rIut6WIwwn2r2e+LE+T9z",
+  "notes": "Temarios dentro de Cosmos con progreso por grupo y curso. Importa una sola vez tu progreso1.0.2 desde su carpeta local, con copia y emparejamiento de nombres únicos. Agenda: Última clase, luego Hoy toca; checks compartidos y fecha real para las marcas nuevas. Mantiene Temarios aparte. Incluye cuadrícula y centrado en Parts."
 }
