@@ -1,7 +1,8 @@
 {
-  "version": "2.3.14",
-  "url": "https://cdn.jsdelivr.net/gh/ransisco/cosmos-updates@cbfd579e8ce2ef2c0952ba05334f5cb20e270e57/email/dist/update-2.3.14.zip",
-  "sha256": "bbedb2dfd0ff7eacd72ce9a01c629263a6bde06314359e195e3aa967017a23d1",
-  "notes": "Corregido el fallo por el que a veces los mensajes nuevos no aparecían en la lista ni en no leídos: si el servidor rechazaba la descarga de sobres por un mensaje problemático, se ignoraba todo el lote en silencio. Ahora se aísla ese mensaje y el resto del correo entra con normalidad. Asuntos y remitentes con tildes/ñ siempre correctos, icono de adjuntos fiable y el estado de leído/destacado se actualiza en cada sincronización aunque no haya correo nuevo.",
-  "sig": "KBq9/hznnYg+mqrrrjTjbvlsN39cwbw5feOL949hJEQDWU3hiPAzHV180HKhzFZee/swZnTke5OH0upxQrdx943zg/Zsx5DwQ7CvX8KHtT1lSrz/GfUpDEv+YbLOoH0WZTfPwA7jPso0SgSgXxVAG3jZnijovre4sMQ7N+O529+8T3BNUe3AULVzC/yn9HKLIUTu9zXUtyA8WL37eAcB+6150coSplUcNwB/eus7ql5nf9SnhFK6iRMXxa6y9+5ra64zzP4jSMxWcES2EysU0l8jm8IL9l7RgiN3eJ8dAZld33lTi1FPhfXV8mRWBTpelxqb6NQ+/Jg741lM/oEDdA=="
+  "app": "email",
+  "version": "2.3.15",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/email-2.3.15/update-2.3.15.zip",
+  "sha256": "abbc98abbb927cd5972b7b83c2ad67f76dcd82539b89d6fdd15823f08ed9fdf3",
+  "notes": "Buscador más alto y legible. En destinatarios, Supr sobre una sugerencia resaltada la elimina del autocompletado y la mantiene oculta. No borra correos ni contactos.",
+  "sig": "VyWyYnNsFdhi87qbLhr7I6cADmcsdiGh86SXRH10oie3g2e+b3+1bceQf3rfdid7TkUdhCf4Ch9RE14Q4rk4kWgVDYrgBhmtL5PF8H3bpLwQoWHsdXAYh9w0z24irHROMmV0c6eiZuNEU/s3O3McnZFhTJvWCXqokNIJLgApSQUg7mCrclIl6uVQlL4W6UTODteXjmYdl0Z//rg51snnzHTUB+Gk5R/KR3EdiaLI8y2ElCJTrldZiwuQAY9VXjZY1U2I8Q+Ff3VglotoduOYiA/bZoQ6f/Roud0XEKOiHy3zYgV4S2+2wHgw3O86tZIwMYWuJSDe6igYpwi+MC8DSQ=="
 }
