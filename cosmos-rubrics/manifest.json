@@ -1,7 +1,7 @@
 {
-  "version": "3.4-62",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-62/update-3.4-62.zip",
-  "sha256": "6221a3736707adcc6530dfbca3dd19e73fed23b8682e4346f8ed78901fc7e9f1",
-  "sig": "MEUCIFsefE93QEQHQ2R7CUBDEiybA1eZQNDZa4Obr7XbZDdCAiEAuXGgIzCBmCFvx2RM9VuHdpREKKzLg03038PkhpDFjrM=",
-  "notes": "Agenda compacta: pulsa Hoy toca para abrir Temarios en la sesión exacta del grupo y curso activos. El texto completo queda en Temarios. Navegar no marca Dado. Cuando no hay sesiones pendientes muestra temario completado y abre su tabla. Conserva importación con copia y el resto de funciones."
+  "version": "3.4-63",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-63/update-3.4-63.zip",
+  "sha256": "8ae33603d61aa62d2c10a9c47eddd6561b5e9cf323a13685e70bd51b6c8687a1",
+  "sig": "MEQCIDFYuVCe/LJArqdzIY1GPJrOL5rYwyqs9tIrJBA16sD1AiAsopR1jbaIw6eY3VpUBWeOhRUxDNypqMShB8iLU5aV0Q==",
+  "notes": "Agenda: solo botón Hoy toca debajo del lesson plan y encima de Reminder. Restaura los recordatorios del lesson plan anterior para grupos enlazados con Temarios. Mantiene mismo grupo y destreza, navegación a sesión exacta sin cambiar progreso e importación con copia."
 }
