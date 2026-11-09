@@ -1,0 +1,7 @@
+{
+  "version": "1.0.2",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/temarios-checklist-1.0.2/update-temarios-1.0.2.zip",
+  "sha256": "15fda3e915f79802cecdc9d07aa092f5c24c1e4c3e191439bbc2feb3f7a8efd9",
+  "sig": "MEUCIDoQX2/9boBXSa8RD10hBFbjAXPl4PufUBHc3ytd5NY4AiEApC11yVudp0mCYep7BPQrqE2GWSD+P78SrphCUTo+24I=",
+  "notes": "Solo aparece el check al marcar: sin seleccionar ni resaltar filas. Mantiene el actualizador, controles de curso e icono."
+}
