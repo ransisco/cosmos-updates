@@ -1,7 +1,7 @@
 {
-  "version": "3.4-60",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-60/update-3.4-60.zip",
-  "sha256": "9e001081f6b15ac6c9c83bf8a45c8988170eb9c21b5699b31e7443af161cf3cb",
-  "sig": "MEYCIQCUta8iZ0M/wVHpG2yIG2fd7hnmyzv2l8il0g57Td5AMwIhAL7PeMLes9WXbpjDCsMDpH2rIut6WIwwn2r2e+LE+T9z",
-  "notes": "Temarios dentro de Cosmos con progreso por grupo y curso. Importa una sola vez tu progreso1.0.2 desde su carpeta local, con copia y emparejamiento de nombres únicos. Agenda: Última clase, luego Hoy toca; checks compartidos y fecha real para las marcas nuevas. Mantiene Temarios aparte. Incluye cuadrícula y centrado en Parts."
+  "version": "3.4-61",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-61/update-3.4-61.zip",
+  "sha256": "d18ec5c21c6ee38ef6fd2cecfca81e6a40933c1fd3a9165688f6b0ea46d0208c",
+  "sig": "MEUCIQDy30zZPu8YwlIQpaKA2WMibvPiCW+Vq8S41MVR1myA5QIgJl9lZcj2cJYO3Edg240uEtULvfI3dIkW7grzqewEbGU=",
+  "notes": "Corrige el filtro de Temarios: solo nombres de destrezas completos (no vocabulario, story o palabras que contengan read por casualidad). Conserva la fusión con progreso por grupo y curso. Importa una sola vez tu progreso1.0.2 desde su carpeta local, con copia y emparejamiento de nombres únicos. Agenda: Última clase, luego Hoy toca; checks compartidos y fecha real para las marcas nuevas. Mantiene Temarios aparte. Incluye cuadrícula y centrado en Parts."
 }
