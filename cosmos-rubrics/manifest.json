@@ -1,7 +1,7 @@
 {
-  "version": "3.4-61",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-61/update-3.4-61.zip",
-  "sha256": "d18ec5c21c6ee38ef6fd2cecfca81e6a40933c1fd3a9165688f6b0ea46d0208c",
-  "sig": "MEUCIQDy30zZPu8YwlIQpaKA2WMibvPiCW+Vq8S41MVR1myA5QIgJl9lZcj2cJYO3Edg240uEtULvfI3dIkW7grzqewEbGU=",
-  "notes": "Corrige el filtro de Temarios: solo nombres de destrezas completos (no vocabulario, story o palabras que contengan read por casualidad). Conserva la fusión con progreso por grupo y curso. Importa una sola vez tu progreso1.0.2 desde su carpeta local, con copia y emparejamiento de nombres únicos. Agenda: Última clase, luego Hoy toca; checks compartidos y fecha real para las marcas nuevas. Mantiene Temarios aparte. Incluye cuadrícula y centrado en Parts."
+  "version": "3.4-62",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-62/update-3.4-62.zip",
+  "sha256": "6221a3736707adcc6530dfbca3dd19e73fed23b8682e4346f8ed78901fc7e9f1",
+  "sig": "MEUCIFsefE93QEQHQ2R7CUBDEiybA1eZQNDZa4Obr7XbZDdCAiEAuXGgIzCBmCFvx2RM9VuHdpREKKzLg03038PkhpDFjrM=",
+  "notes": "Agenda compacta: pulsa Hoy toca para abrir Temarios en la sesión exacta del grupo y curso activos. El texto completo queda en Temarios. Navegar no marca Dado. Cuando no hay sesiones pendientes muestra temario completado y abre su tabla. Conserva importación con copia y el resto de funciones."
 }
