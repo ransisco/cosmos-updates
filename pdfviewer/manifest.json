@@ -1,1 +1,7 @@
-{"version":"2.1.20","url":"https://github.com/ransisco/cosmos-updates/releases/download/pdfviewer-v2.1.20/update-2.1.20.zip","sha256":"af59a0a161af8d89e67bb815fc55e1df5efbcad05fb37ab302293a28565b08e2","sig":"wH1dxX3PrtSBjzwhae+3z9oQde1RZXEyPoco1vAIRwTa0wLffSjWohKlLG/31Rmzj4HyH+bUBsayctnyOotk6udlAgFWD/abOKs0xdPB4IXRFP6h1M8Wp24evKmYYEa308iB6Wl0vClJ7HCgFUb0eTUzbew/Rzode/vkUx2piH2EjvynxsNduLeyb129L9ZW3oQP88XWCBnj/me4reHj60pdcWMTbz9Ho0TCWrhThCw+2NmgpRAx7A36MucthxPyDs98T61SsvQ1B9OXZHn1LOkcUCiX5Q3ysq6RXYdrCUBwFolwFb6JguSYvhol+j+0P5Z7m3qFuC26tydj5vpYJw=="}
+{
+  "version": "2.1.24",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/pdfviewer-v2.1.24/update-2.1.24.zip",
+  "sha256": "b7a87882c969dedba460f7df765c4d45a16836e1b81068f96b2cf98fbd153511",
+  "notes": "Cuadros de texto al estilo KolourPaint: arrastrar dibuja el cuadro con su tamaño, solo el texto (sin barra ni ×; borde punteado al pasar el ratón o editar), mover arrastrando el borde, borrar con Supr, la herramienta se deselecciona al terminar de escribir.",
+  "sig": "ky3WteM6qcs9YLnRw6dvMfCDwXtHMtvCAswmeH8L/Vl4eOLHmZImovExcPdQL0XLnY+nSEmU7dST2DrT/6X8E9NPZqp9eao0WZ+/GhvhNAg3H10N8fDzRJ+AT67QClGzLQ4A89VxjtbUaWbHXnlee0+ResTb77GnxSJBRDv/nHuZ+QQcGVsvqsCC552aC9/3IRAHF6KJr7cynJthfuuSt/2Arx64FWolL8Hoiq3Ik5aI619cZont2fBdIl60VgOjNnSdJ3dgZMqBOWroBgm9ZAuc7Zu+PzmhKUeob3dO1Od0LZXG6ecLi+Q6cWTLNnBJEkV4uVrLGuv9aKJjBfA51w=="
+}
