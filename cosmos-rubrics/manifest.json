@@ -1,7 +1,7 @@
 {
-  "version": "3.4-66",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-66/update-3.4-66.zip",
-  "sha256": "d2965653f5ad4c3e5dd3e39bd7b40ca55c8fa44259fcd84af357da3c1fd3aab9",
-  "sig": "MEYCIQDjzGZSMIOKWbVDFuVYxyq3+uN/kMaFrCmuGJsZ1JLvEQIhAPBDJvsi3JVA9lb0d5RdlmfN6fbiL14rUv+/VW8qlljw",
-  "notes": "Sidebar: Notepad moved above Help. No other changes."
+  "version": "3.4-67",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-67/update-3.4-67.zip",
+  "sha256": "2d77f6caf6216c8de3e301e8d4c83eb390ce34ea858730b99d2ea2f9770e4e75",
+  "sig": "MEYCIQD8KBEDHzaafYYxpUo4pTEUp2rrnOZ97QoraqoHkIS/LAIhANsB0dw6REUQJ6BEjzcJA4+ZF9DgczrCUly076cd3Ujr",
+  "notes": "Fix: la Agenda y el aviso sonoro reconocen alumnos online aunque el nombre del grupo en el horario no coincida exactamente con el de la lista (p. ej. 'Adults' vs 'Adults 25-26'); el boton Syllabus de la clase vuelve a llevar a la sesion del dia."
 }
