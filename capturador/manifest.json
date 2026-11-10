@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/capturador-1.0.2/update-1.0.2.zip",
-  "sha256": "51d83d6f7381f321c941112392a994ad1c31cba7cd9e9454c6844ea02793e1ea",
-  "sig": "MEUCIBSWyiJ1EOzGQqLO+8j2G6lRWmqyzCm+8CD/NuSKMZcZAiEA3ZNa0jNpPEUIf0cUfyeksHuqqDDH3Io/yIOmfxbY/NI=",
-  "notes": "Correcciones de la auditoría: las capturas ya no incluyen las ventanas de la propia app, el autostart sí se puede desactivar, Copiar sobrevive al salir, arranque y reserva más rápidos, y pulido visual."
+  "version": "1.0.4",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/capturador-1.0.4/update-1.0.4.zip",
+  "sha256": "1bbf1af5b53951b3b547f00101064138cec98dab223b17131298798d11213265",
+  "sig": "MEUCIC6c9gbs4+9qZAudeTi5/y2j0heA1dkqcy3Pfir0TYJXAiEApnFMmmOCdRy6iwGCpFQ+9eKDt7AK4FeHfeJhg8ZvE3c=",
+  "notes": "Corrección: las capturas copiadas ya no salen rayadas al pegar (p. ej. WhatsApp). Recorte normalizado a RGB compacto sin alfa y portapapeles servido con bytes ya codificados (PNG/BMP/JPEG). OJO: firmado con la clave NUEVA (rotación del 6-nov); solo actualizan solas las instalaciones con la 1.0.4 del deb."
 }
