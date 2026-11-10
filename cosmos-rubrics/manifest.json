@@ -1,7 +1,7 @@
 {
-  "version": "3.4-64",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-64/update-3.4-64.zip",
-  "sha256": "b63e9964b45eb7037391073df0d8e6b4953f160252e6557b40fc8f4364edf74c",
-  "sig": "MEYCIQC/UDG5POsf0y7qj0cSThjBT2N8Cam6Wo3O+mJ3OdwNxAIhAMI8cEZ7d17l0u1xM0oBObvkzD4WXdasUeYglpvEahSu",
-  "notes": "English sidebar label Syllabus; rename Hoy toca button to Syllabus with yellow highlight, preserving exact-session navigation. No lesson-plan or checklist data changes."
+  "version": "3.4-65",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-65/update-3.4-65.zip",
+  "sha256": "96b67f49266a24d5e93d01c784550005901cc75812cae4444b19729745b0c399",
+  "sig": "MEYCIQD3NjQSREvBzLnAQYnhsN826Y4LnFz7YMTt3EdDl6MnxwIhAKB4HIx4nSSyWLLr+w60uacotfhoBpL3v7S4VTg15GUq",
+  "notes": "Online students: Online tag per student (student form + clickable column in Students), red 'online student in this class' label and blue names band on Agenda class cards, sound + pop-up 5 minutes before a class with online students (while Cosmos is open or in the tray), and a new Notepad tab at the end of the sidebar. No data changes."
 }
