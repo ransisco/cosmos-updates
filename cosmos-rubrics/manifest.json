@@ -1,7 +1,7 @@
 {
-  "version": "3.4-65",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-65/update-3.4-65.zip",
-  "sha256": "96b67f49266a24d5e93d01c784550005901cc75812cae4444b19729745b0c399",
-  "sig": "MEYCIQD3NjQSREvBzLnAQYnhsN826Y4LnFz7YMTt3EdDl6MnxwIhAKB4HIx4nSSyWLLr+w60uacotfhoBpL3v7S4VTg15GUq",
-  "notes": "Online students: Online tag per student (student form + clickable column in Students), red 'online student in this class' label and blue names band on Agenda class cards, sound + pop-up 5 minutes before a class with online students (while Cosmos is open or in the tray), and a new Notepad tab at the end of the sidebar. No data changes."
+  "version": "3.4-66",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-66/update-3.4-66.zip",
+  "sha256": "d2965653f5ad4c3e5dd3e39bd7b40ca55c8fa44259fcd84af357da3c1fd3aab9",
+  "sig": "MEYCIQDjzGZSMIOKWbVDFuVYxyq3+uN/kMaFrCmuGJsZ1JLvEQIhAPBDJvsi3JVA9lb0d5RdlmfN6fbiL14rUv+/VW8qlljw",
+  "notes": "Sidebar: Notepad moved above Help. No other changes."
 }
