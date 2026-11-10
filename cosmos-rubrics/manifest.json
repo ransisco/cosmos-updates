@@ -1,7 +1,1 @@
-{
-  "version": "3.4-68",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-68/update-3.4-68.zip",
-  "sha256": "3c1499b7031e5514b84e71a90b11fcbd64294ccea918c1eccc64f067eb0808da",
-  "sig": "MEYCIQCHXvf2TBNuiUdHTRvwEu45YNBRgN770EfdPmygRKX3BQIhAOX7MN3Bh4P+K+bDFeYjRslwBTKVn1eaCIK6nFprQtgp",
-  "notes": "Agenda: la lista HW/TO DO ya no tiene checks (quien la hizo se marca en la pestana Tareas); cada tarea tiene papelera propia para borrarla."
-}
+{"version": "3.4-69", "url": "https://github.com/ransisco/cosmos-updates/releases/download/3.4-69/update-3.4-69.zip", "sha256": "9789e331ac5801657b967e030f3ba53eab7caaeb73331192134d640614083632", "sig": "MEQCIGmVhMtOFCZ3YHubnK+uSojvs1ntAchyVaHAMb7oW+cJAiAWcJ9JvGYNO1Rg8faVv64EBZjBsV97+XLpxONgMh+iSw==", "notes": "Escala Writing B1/Cambridge: puntos con mitad (16,5) aceptados en partes; 'Not reported' por debajo del minimo; total de partes redondea a la escala. Corrige que la nota no se introducia en Assessment > Parts."}
