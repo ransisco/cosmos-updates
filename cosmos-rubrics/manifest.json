@@ -1,7 +1,7 @@
 {
-  "version": "3.4-67",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-67/update-3.4-67.zip",
-  "sha256": "2d77f6caf6216c8de3e301e8d4c83eb390ce34ea858730b99d2ea2f9770e4e75",
-  "sig": "MEYCIQD8KBEDHzaafYYxpUo4pTEUp2rrnOZ97QoraqoHkIS/LAIhANsB0dw6REUQJ6BEjzcJA4+ZF9DgczrCUly076cd3Ujr",
-  "notes": "Fix: la Agenda y el aviso sonoro reconocen alumnos online aunque el nombre del grupo en el horario no coincida exactamente con el de la lista (p. ej. 'Adults' vs 'Adults 25-26'); el boton Syllabus de la clase vuelve a llevar a la sesion del dia."
+  "version": "3.4-68",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/cosmos-rubrics-3.4-68/update-3.4-68.zip",
+  "sha256": "3c1499b7031e5514b84e71a90b11fcbd64294ccea918c1eccc64f067eb0808da",
+  "sig": "MEYCIQCHXvf2TBNuiUdHTRvwEu45YNBRgN770EfdPmygRKX3BQIhAOX7MN3Bh4P+K+bDFeYjRslwBTKVn1eaCIK6nFprQtgp",
+  "notes": "Agenda: la lista HW/TO DO ya no tiene checks (quien la hizo se marca en la pestana Tareas); cada tarea tiene papelera propia para borrarla."
 }
