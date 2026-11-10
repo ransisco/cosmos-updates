@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/chalkpad-1.0.20/update-1.0.20.zip",
-  "sha256": "768b347edf2a357f598a2d14f244af29f874e54138a03eb23cc57b1ae797f894",
-  "notes": "Barra de pestañas oculta cuando solo hay una; cierre x alineado y resaltado al pasar el ratón; botón + alineado y opción Nueva pestaña en Archivo. El icono de pizarra nuevo requiere instalar el .deb si aún no lo tienes.",
-  "sig": "AZKv+pgCmrmUCESAczy9pBG4pE0t14ph8PjmmfyjKT9jSQ88epSaCbuyt6XzUrdUea8HNPsISIwH1A6Or6EpvZVHCuCDsqd7xMM39FLThyliEIYmWSPHdzppnqdNvFUJ6hs5tIehOjVQ95X1nm44/e1U5UvikFD6gS9lf/2JWzuSdSFkO6JVf+tUDg57gHl/INb9KLSjGCnVHz/PDLazZ0A6wEqyhygjl82ccMDvtZX2ynLJ20rRpetaZppLz+cvT+GIQLg4EOYCUdg6jxm96Lfjp1bXSeipsQrkvmVxEGcUrbcJ/rUyxeekewCtiqQJJNG8IcQZvHz1vQg/B1Wotg=="
+  "version": "1.0.21",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/chalkpad-1.0.21/update-1.0.21.zip",
+  "sha256": "d95658f47a678b6d635960777bbf762a5451f034d0659b6ab418ba4c12c38b86",
+  "notes": "Corregido: al seleccionar texto y pulsar negrita o cursiva, el botón ya no queda activado y el formato se quita al volver a pulsar.",
+  "sig": "kLZuKRdFXPXgbhXVgT0p5AoZzdNWhoYa2WpIVeSZxMlr/ackRLnXL+AawaZD9WTjTsd2wD4WX0q/N60d1nr88OQ+T/XMba0G+ivpy5GmWuQs2/Ac1yLhMH+OwqqyYIwlC8atglcGb+NjWa9mOJbhrb/Gewl+3NOimC/lNyO9H6Kxwoe0Utai6wVHrmiruWcDaqhOL25kLnRmiN4oGppgxY+216UcNhf7jHiAWQ9hHr0f/ddaqOvlXnRStpZhp9x+XpDB9lLVYyfLxRiG7fEjjHECAe+EdgXQs5hxP+4qKH5UdKHqO/XEMhHpRPW9DrSK7vONvflss2kdY+IkP5DzVQ=="
 }
