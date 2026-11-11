@@ -1,8 +1,8 @@
 {
   "app": "email",
-  "version": "2.3.15",
-  "url": "https://github.com/ransisco/cosmos-updates/releases/download/email-2.3.15/update-2.3.15.zip",
-  "sha256": "abbc98abbb927cd5972b7b83c2ad67f76dcd82539b89d6fdd15823f08ed9fdf3",
-  "notes": "Buscador más alto y legible. En destinatarios, Supr sobre una sugerencia resaltada la elimina del autocompletado y la mantiene oculta. No borra correos ni contactos.",
-  "sig": "VyWyYnNsFdhi87qbLhr7I6cADmcsdiGh86SXRH10oie3g2e+b3+1bceQf3rfdid7TkUdhCf4Ch9RE14Q4rk4kWgVDYrgBhmtL5PF8H3bpLwQoWHsdXAYh9w0z24irHROMmV0c6eiZuNEU/s3O3McnZFhTJvWCXqokNIJLgApSQUg7mCrclIl6uVQlL4W6UTODteXjmYdl0Z//rg51snnzHTUB+Gk5R/KR3EdiaLI8y2ElCJTrldZiwuQAY9VXjZY1U2I8Q+Ff3VglotoduOYiA/bZoQ6f/Roud0XEKOiHy3zYgV4S2+2wHgw3O86tZIwMYWuJSDe6igYpwi+MC8DSQ=="
+  "version": "2.3.16",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/email-2.3.16/update-2.3.16.zip",
+  "sha256": "63c85193d7643758dc5f7fa8968b6acb6f91f146ef256b7733833ad3f3fc37b2",
+  "notes": "Avisa solo del correo que entra en la bandeja de entrada: lo que cae en no deseado o eliminados llega igual, pero sin notificación. Al abrir, vuelves a la carpeta donde te quedaste y la ventana se abre como la dejaste (maximizada, pantalla completa o tu tamaño). Icono de sincronizar más pequeño.",
+  "sig": "Us1l9gSmfi2oDvtz64784hr9FkwqB0vGcuU4uyXo5+ipa31KPaW3WfzXQHrxV0WGbEZiJE3VFtViPiXZF/SGSqqSl6TCPHqUKGfqFm1JpYdhyKlsyamlqEsJHs5ZPgVJkYD7NH4aLoB2giUupClOyLwBk8qL0ekhT3OxfusbUYl8Cqz7GsAQHOmxPWzxtrFHWCOU5+QYWEzaBE/eGtxhH16aDgGSDGD8qtiypwlUijnfdN4ajFskN8+qZhLYhsLjBhXQ8G7ZtfCgHjyxqLkoH9QXCkwsr1yULKRJ+WU0JA2Bl9xpg34m+XrJophALOs/9WLF9uSvMKpigTYdTZkJ/w=="
 }
