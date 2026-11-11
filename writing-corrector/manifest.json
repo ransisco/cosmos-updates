@@ -1,0 +1,8 @@
+{
+  "app": "writing-corrector",
+  "version": "1.1.0",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/app-1.1.0/update-1.1.0.zip",
+  "sha256": "8a7f39705bebc5724d87333a9a31eb98df455628b4044a91de318431dac57144",
+  "notes": "Nuevo formato de intercambio por adjuntos (exchange v1) y correcciones internas.",
+  "sig": "MEYCIQD5K5ENUpKsW6YQrX/of4QvyAJSXzaUwI6sjgRXSwAjKgIhAOfVmyuRNuS3mw5Bw6+dPVUYN0vM21L4lie3KWFSLg14"
+}
