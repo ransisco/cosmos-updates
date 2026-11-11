@@ -1,7 +1,8 @@
 {
-  "version": "2.3.14",
-  "url": "https://cdn.jsdelivr.net/gh/ransisco/cosmos-updates@cbfd579e8ce2ef2c0952ba05334f5cb20e270e57/email/dist/update-2.3.14.zip",
-  "sha256": "bbedb2dfd0ff7eacd72ce9a01c629263a6bde06314359e195e3aa967017a23d1",
-  "notes": "Corregido el fallo por el que a veces los mensajes nuevos no aparecían en la lista ni en no leídos: si el servidor rechazaba la descarga de sobres por un mensaje problemático, se ignoraba todo el lote en silencio. Ahora se aísla ese mensaje y el resto del correo entra con normalidad. Asuntos y remitentes con tildes/ñ siempre correctos, icono de adjuntos fiable y el estado de leído/destacado se actualiza en cada sincronización aunque no haya correo nuevo.",
-  "sig": "PpknaJlXFb2PZ7kkVy4z5Mya4OqLB2+crXYMC3X5OhqxNxsMzPxuDqNwSwQ3crplaNjx3jZdXEeBx6oY7RfryfnHximnYVDSUXhoKHXNzWWs7Vv4iAl6ujGXhqfBNGWmGxXMgVs6r9yOrvaFinvvBrG8wfDMG7DJXcynXeI0NXYFncWior8Rj6u/xIPC4uNo9uBBgLAXt2b6NQMU0BQVjdAF/52hAsKB/x9kHoL8d0fWrrgZ0hNg7ALEtAoRx9XIf6Ecuk1+1GYdGLw+7VGROVoaj7QWPx9imtVhumL2YA/StE5XMCjHtMGXNANJUqXja5D8tnmBJPN2bTMv4hwg9g=="
+  "app": "correo",
+  "version": "2.3.16",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/email-2.3.16/update-2.3.16.zip",
+  "sha256": "63c85193d7643758dc5f7fa8968b6acb6f91f146ef256b7733833ad3f3fc37b2",
+  "notes": "Avisa solo del correo que entra en la bandeja de entrada: lo que cae en no deseado o eliminados llega igual, pero sin notificación. Al abrir, vuelves a la carpeta donde te quedaste y la ventana se abre como la dejaste (maximizada, pantalla completa o tu tamaño). Icono de sincronizar más pequeño.",
+  "sig": "isLRKR/+zH/zhgy3l33VzdJ8D3vWjkR0YPUGdJUOiA1WY+XfJcBu5wSXoiVVAgddEeQ9ewbmAKLhjh5vcQ8NxTAUfwpwIrJdDES/oKkvysTVXgl3ViY9c+prOyZLbO1YK5TbaZPWJK7SuP64H3db74qkXD+5Xgez/4SfWCE/6J3gGXbQFuS+EuoZ/TkLOrI0ZPyzaEKiL5naJlIRue52/fkdLkaqvHDiy/uILSjUbvhdzUvxtYNLqh+0HsalPN+yi0L+blnYUB528wpmuRX8S0NdPiqwljx5ocOMBOnL4TqNZoYvNhS+k6DRBN7yya3xU0L3PFmCAi8p5Uh2PBW3BQ=="
 }
