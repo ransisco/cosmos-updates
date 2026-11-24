@@ -1,1 +1,7 @@
-{"version":"3.4-73","url":"https://github.com/ransisco/cosmos-updates/releases/download/3.4-73/update-3.4-73.zip","sha256":"69cf16d8581518840fd84cb8c42ed33eb18823475e4e465bace3a1559e603f69","sig":"MEQCIFRaQPE6SCSdQ79hH75rHj5pvI84mOupa4ulzta6YWwPAiBFROt2B/UqG//EJwozLRFpxHe3mCYLE5hBL/05DMdQpQ==","notes":"Al marcar asistencia en el Calendario o borrar una tarea HW/TO DO en la Agenda, la vista ya no vuelve arriba: se conserva el scroll."}
+{
+  "version": "3.4-74",
+  "url": "https://github.com/ransisco/cosmos-updates/releases/download/3.4-74/update-3.4-74.zip",
+  "sha256": "c405a643a1db80f0929034232a56c56ba0aa1625ac4d9c38b7d1479ec9e896bf",
+  "sig": "MEUCIQCDU9679p6qmoZ7gyJWrb8OGE6zJ8X0wksOS9IzoulRuAIgIOgkGjmZIdaSQR912IqdLbeMNdx0bSrLSVKhRMNgN3k=",
+  "notes": "Nota proporcional por escala Cambridge cuando faltan partes (marcada como provisional), segunda tabla Reading + Use of English con nota global estimada, y cabeceras que aclaran que se introducen PUNTOS (Part 5 y 6: 2 por pregunta; Part 4 UoE: hasta 2)."
+}
